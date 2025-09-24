@@ -42,7 +42,7 @@ Set up the bones of the project. Keep it light, consistent, and easy to share. S
 - Deliverables folder is where all evidence and sign-off docs go.
 - Don’t over-engineer it. Just enough structure so no one can say “I couldn’t find it.”
 
-> **Rule**: No empty folders. Empty folders are a sign of failure to commit or failure to deliver. A placeholder is OK but if it looks like it's not being used, bin it. Save time searching for things later in the audit.
+> **Iron Bootstrap Rule**: No empty folders. Empty folders are a sign of failure to commit or failure to deliver. A placeholder is OK but if it looks like it's not being used, bin it. Save time searching for things later in the audit.
 
 ## Startup Checklist
 
