@@ -38,7 +38,7 @@ Both must line up. If they drift apart, you’re in trouble.
 - Undocumented change? → Only update delivery plan if the change is still in progress. Don't update the customer plan, but document retrospectively.
 - Outcome dropped or swapped? → Update both plans.
 
-Living means living. If the plan doesn’t reflect reality, it’s a liability.  
+Living means living. If the plan doesn’t reflect reality, it’s a liability.
 
 ## Example
 

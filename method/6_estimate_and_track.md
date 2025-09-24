@@ -46,6 +46,16 @@ Document as **estimate**. Call out assumptions and traps.
 
 **Smell test:** if **% time elapsed >> % work complete**, raise a flag. Don’t wait for Friday.
 
+## Tooling
+
+Bootstrap PMs don’t worship tools, but they use what works:  
+- **Burn charts** (progress vs. effort). Quick visual of whether you’re on track or drifting.  
+- **RAG status** (Red/Amber/Green). Fast, brutal clarity for execs. If it’s Red, everyone knows.  
+- **Kanban board / task grid**. Delivery plan in motion. Doesn’t matter if it’s Jira, Trello, or a whiteboard.  
+- **Simple trackers** (Excel/Sheets). Sometimes the fastest way to keep time vs. progress visible.  
+
+Pick the tool that gives clarity with least drag.
+
 ## Cadence & Pressure
 
 - Meeting frequency is a **vibe call**:
