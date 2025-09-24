@@ -1,5 +1,4 @@
-# Startup Method
-
+# Startup
 When you land in a project — whether fresh or mid-flight — this is how you bootstrap. It’s about getting the basics in place fast, without choking in process.
 
 ## 1. Establish What’s Been Sold

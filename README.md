@@ -40,7 +40,9 @@ Frameworks don’t cover this. BPM does.
 ## What it’s not
 - It’s not Agile with a new hat.  
 - It’s not Waterfall with a new name.  
-- The second you graft that stuff on, it stops being Bootstrap.  
+- The second you graft that stuff on, it stops being Bootstrap.
+- For every project.
+  - This is probably not going to work for every project and certainly not where regulatory procedure requires documentation *(but you could bootstrap the creation of regulatory documentation)*. The primary fit is software consultancy with a solution delivery model.
 
 ## Licence
 - Docs: CC BY 4.0  
