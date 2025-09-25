@@ -1,60 +1,66 @@
 # Bootstrapping
 
-Bootstrap Project Management isn’t about phases or rigid playbooks.  
-It’s repeatable, lightweight, and focused on outcomes.  
+Bootstrap Project Management isn’t about phases or rigid playbooks.
+It’s repeatable, lightweight, and focused on outcomes.
 
 ## Step 1 — Startup
 
-- Establish what's been bought and sold.
-- Assemble the team.
-- If mid-project: take inventory (signed off / pending / disputed).
+- Establish what’s been bought and sold (from the Envoy).
+- Assemble the team: Seneschal, Castellan, Knights.
+- If mid-project: take inventory of what’s been signed off by the Custodian, what’s pending, and what’s disputed.
 
-## Step 2 - Outcomes
+## Step 2 — Outcomes
 
-- Lock down **what makes the customer say “yes, we’re satisfied.”**.
+- Lock down **what makes the Custodian say “yes, we’re satisfied.”**
 - Translate into KPIs with measurable evidence.
+- Seneschal documents, Knights clarify feasibility, Custodian approves.
 
 ## Step 3 — Kick-offs
 
-- Run **internal kickoff** first (delivery team). Agree feasibility, effort, and plan.  
-- Run **customer kickoff** next. Present plan, KPIs, and milestones.  
-- Run **partner kickoff** if 3rd parties are critical.  
+- Run **internal kickoff** (Seneschal + Knights + Castellan). Agree feasibility, effort, and plan.
+- Run **customer kickoff** (Custodian + Artisans). Present plan, KPIs, and milestones.
+- Run **partner kickoff** if Gatekeepers are critical.
 
-## Step 4 - The Stakes
+## Step 4 — The Stakes
 
-- Document stakes for every group. Customer stake is top priority.
-- Develop a stake map, understand who wants what.
+- Document stakes for every group: Custodian, King, Castellan, Artisans, Envoy, Knights, Gatekeepers.
+- Customer stake (Custodian) is top priority.
+- Develop a stake map: who wants what, and why.
 
 ## Step 5 — Plan & Estimate
 
-- Build the **Delivery Plan** (granular, outcomes as milestones).
-- Build the **Customer Plan** (milestones only, includes their deliverables).
+- Build the **Delivery Plan** (Seneschal + Knights). Outcomes as milestones.
+- Build the **Customer Plan** (Seneschal + Custodian + Castellan). Milestones only, includes their deliverables.
 - Forecast effort: classify tasks as BAU / ambiguous / unknown.
-- Use **Fermi estimates** with buffer (x1.5).
+- Knights provide estimates, Seneschal applies buffers (x1.5).
 - Iron rule: no task without an estimate.
 
 ## Step 6 — Execute & Track
 
-- Work the plan.
-- Track effort vs. time — if % time >> % done, raise a flag.
+- Knights do the work, Seneschal tracks it, Castellan keeps continuity.
+- Track effort vs. time — if % time >> % done, raise a flag to the Custodian.
 - Use light tools: burn charts, RAG status, kanban.
-- Document blockers, escalate to KDM early.
-- Stay in lawyer/detective mode — gather evidence, run pre-mortems.
+- Document blockers, escalate to Gatekeepers via Custodian if needed.
+- Stay in lawyer/detective mode — Seneschal gathers evidence, runs pre-mortems.
 
 ## Step 7 — Manage Change
 
-- **Ordinary changes:** log early, include effort + timescale, run through approvals.
-- **Retroactive changes:** document no matter what, classify (small / medium / high).
-- Escalate medium/high to KDM.
+- **Ordinary changes:** Seneschal logs, Knights clarify effort, Custodian approves.
+- **Retroactive changes:** Seneschal documents, escalates medium/high to Custodian.
 - No undocumented change goes unlogged.
 
 ## Step 8 — Sign-offs
 
-- Present outcomes + KPI evidence.
-- Get explicit sign-off (contract, email, note, ticket).
-- Store it in the Evidence folder under milestone.
+- Seneschal presents outcomes + KPI evidence.
+- Custodian provides explicit sign-off (contract, email, ticket).
+- Store in the Evidence folder under milestone.
 - No sign-off = no closure.
-- If refused, run the resolution process (satisfaction gap, incomplete work, impossible ask, or abandonment).
+
+If sign-off is refused:
+- Seneschal investigates satisfaction gap.
+- Knights patch if incomplete.
+- Custodian decides if scope shift is acceptable.
+- Castellan manages relationship fallout.
 
 ### Pivot or Close
 
@@ -65,8 +71,8 @@ It’s repeatable, lightweight, and focused on outcomes.
 # Iron Bootstrap Rules
 
 - Outcomes are everything. All tasks tie to an outcome.
-- Customer stake comes first. If stakes clash, the customer wins.
-- The project doesn't start until every task has been estimated.
+- The Custodian’s stake comes first. If stakes clash, the customer wins.
+- The project doesn’t start until every task has been estimated.
 - Evidence or it didn’t happen.
 - No empty folders. Empty folders = failure to commit or failure to deliver.
 - No change goes unlogged.
