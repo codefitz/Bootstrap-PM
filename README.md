@@ -44,6 +44,21 @@ Frameworks don’t cover this. BPM does.
 - For every project.
   - This is probably not going to work for every project and certainly not where regulatory procedure requires documentation *(but you could bootstrap the creation of regulatory documentation)*. The primary fit is software consultancy with a solution delivery model.
 
+## Is Bootstrap right for my project?
+
+Bootstrap-PM is for you if:
+
+- You landed a project and have no idea where to start.
+- You're taking over a failing project and just need to get it over the line.
+- You don't want to implement a full fat framework but you know your project needs structure.
+- Your project has two or more entities in a customer-supplier relationship.
+- You need to deliver in an adversarial environment or competing stakeholders.
+
+Bootstrap-PM is not for you if:
+- You're looking to integrate it into another PM methodology. Just don't. Bootstrap is aware of other frameworks, it just chooses to ignore them.
+- You're primary concern is process - Bootstrap is framework that can be used by anyone who has to deliver a result (outcome) to a customer. The goal of Bootstrap is to deliver outcomes, not deliver process. Bootstrap seeks an end.
+- Your project must meet specific regulated execution standards following a recognised project framework.
+
 ## Licence
 - Docs: CC BY 4.0  
 - Code/scripts: MIT

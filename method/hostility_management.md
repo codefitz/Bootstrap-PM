@@ -2,7 +2,7 @@
 
 Not every project fails because of bad tech or bad estimates.
 Sometimes it’s people. Politics. Fear. Sabotage.
-Bootstrap PM must spot hostility early and deal with it head-on.
+The Bootstrap PM must spot hostility early and deal with it head-on.
 
 ## Where Hostility Comes From
 
@@ -53,22 +53,22 @@ Bootstrap PM must spot hostility early and deal with it head-on.
   - Present evidence.
   - Make it their problem, not yours.
 
-## Commments
+## Notes
 
-Stay professional, but firm.
-You’re not here to win hearts.
-You’re here to get outcomes signed off.
+- Stay professional, but firm.
+- You’re not here to win hearts.
+- You’re here to get outcomes signed off.
 
 Hostility isn’t personal — it’s politics, fear, or turf.
 Don’t wrestle in the mud. Document, escalate, reframe, move on.
 
-And remember, not all hostility that comes at you comes
-for you. I once worked with a guy who was constantly complaining
-about how uncooperative I was being (even after I had delivered
-some value add specficially for him). Months after the project
-ended and I'd moved on, I heard he has passed away from an 
-aggressive terminal cancer. Most people are dealing with things
-we have no idea about.
+Not all hostility that comes at you comes for you.
+I once worked with a guy who was constantly complaining
+about how uncooperative I was being - even after I had gone the
+extra mile (outside of scope) to assist him.
+Months after the project ended and I'd moved on, I heard he had
+passed away from an aggressive terminal cancer. Most people
+are dealing with things we have no idea about.
 
 ## Checklist
 

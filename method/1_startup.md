@@ -10,15 +10,15 @@ When you land in a project — whether fresh or mid-flight — this is how you b
   - By “neighbourhood,” I mean your delivery stake. The people actually doing the work.
 - Kick off internally before you even talk to the customer.
 
-## 3. Internal/Delivery Kick-off
+## 3. Schedule Internal/Delivery Kick-off
 Agenda:
 - Review what’s been sold and any outcomes already defined.
 - Ask two questions: can it be done? and how can it be done?
 - Apply **5W1H**: Who, What, When, Where, Why, How.
-- If the SMEs say “cannot be done” — you stop here. Flag immediately with the customer stakeholder before wasting another minute.
+- If the Knights (your architects, your SMEs) say “cannot be done” — you stop here. Flag immediately with the King and Custodian (customer stakeholders) before wasting another minute.
 
 ## 4. Draft the Plan
-- If it’s feasible: PM drafts the delivery plan, the customer plan, and proposed KPIs.
+- If it’s feasible: the Project Manager (the Seneschal) drafts the delivery plan, the customer plan, and proposed KPIs.
   - Delivery plan = living, granular, for the team.
   - Customer plan = high-level milestones only.
   - KPIs = how success will be measured.

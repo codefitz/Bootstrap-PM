@@ -15,8 +15,6 @@ One is for you and your team. The other is for the people paying.
 - Document owners for tasks. If no one owns it, it won’t get done.
 - Keep it alive. Update as things shift. Don’t let it rot.
 
-**Pro tip:** Don’t waste time polishing this into a “beautiful plan.” It’s a tool, not a presentation.
-
 ## Customer Plan (Light)
 
 - Built for the customer stakeholders, especially the KDM with the money.
@@ -40,6 +38,37 @@ Both must line up. If they drift apart, you’re in trouble.
 
 Living means living. If the plan doesn’t reflect reality, it’s a liability.
 
+## Effort Forecasting
+
+Forecasting is fundamental to bootstrapping. No fluff. You need a number you can stand behind.
+
+### Estimating: Fermi First
+
+- **Bootstrap PM must be able to Fermi** (or have someone who can). Back-of-the-envelope, reasoned, defensible.
+- **Step 1 — Classify the task**
+  - **BAU / routine**: repeatable, known, stable (e.g. “install standard VM image”). Use the last known good duration. Don’t overthink.
+  - **Ambiguous**: some unknowns. Note them.
+- **Step 2 — Reduce ambiguity**
+  - Compare to last similar work: *Was it a new image last time? Any snags? How long did fixes take?*
+  - Borrow history ruthlessly.
+- **Step 3 — Full unknowns**
+  - Use a **Fermi estimate** (e.g. “install image in GCP VM — never done before” → break into sub-steps, size each quickly, sum).
+
+**Buffer rule:** take the SME’s effort and **multiply by 1.5**.  
+You present the **total** to the customer. Start high so there’s room to come down (they will try to push it down).
+
+> **Iron Bootstrap Rule:** the project **does not proceed** unless **every task is accounted for and estimated**.
+
+### How to Write the Estimate (keep it blunt)
+
+| Task | Type (BAU/Ambig/Unknown) | SME Effort (d) | Buffer x1.5 | Published Effort (d) | Notes/Assumptions |
+|------|---------------------------|----------------|-------------|----------------------|-------------------|
+| Install VM image | BAU | 1.0 | 1.5 | **1.5** | Same image/version as last month |
+| New image (vNext) | Ambig | 1.5 | 2.25 | **2.5** | Last time driver issue (+0.5d) |
+| GCP VM first-time | Unknown | 2.0 | 3.0 | **3.0** | Fermi: net + firewall + perms |
+
+Document as **estimate**. Call out assumptions and traps.
+
 ## Example
 
 **Delivery Plan Milestone**  
@@ -60,4 +89,12 @@ Living means living. If the plan doesn’t reflect reality, it’s a liability.
 - [ ] Confirm both line up.  
 - [ ] Share Delivery Plan with delivery stake only.  
 - [ ] Share Customer Plan with stakeholders.  
-- [ ] Keep both alive. Update on every major change.  
+- [ ] Keep both alive. Update on every major change.
+
+**Estimation**
+- [ ] Task classified (BAU / Ambig / Unknown)
+- [ ] History reviewed (last time, snags, fixes)
+- [ ] Fermi used where needed
+- [ ] Buffer x1.5 applied and **published**
+- [ ] Assumptions + traps written down
+- [ ] Every task estimated (**iron rule**)

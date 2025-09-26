@@ -3,13 +3,13 @@
 Bootstrap Project Management isn’t about phases or rigid playbooks.
 It’s repeatable, lightweight, and focused on outcomes.
 
-## Step 1 — Startup
+## Step 1 — Startup & Mid-Flight Takeover
 
 - Establish what’s been bought and sold (from the Envoy).
 - Assemble the team: Seneschal, Castellan, Knights.
 - If mid-project: take inventory of what’s been signed off by the Custodian, what’s pending, and what’s disputed.
 
-## Step 2 — Outcomes
+## Step 2 - Defining Outcomes
 
 - Lock down **what makes the Custodian say “yes, we’re satisfied.”**
 - Translate into KPIs with measurable evidence.

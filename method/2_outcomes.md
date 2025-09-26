@@ -1,4 +1,4 @@
-# Outcomes & KPIs
+# Defining Outcomes
 
 The first job of a Bootstrap PM is to pin down outcomes.  
 Not tasks, not tickets, not “stories” — outcomes.  
