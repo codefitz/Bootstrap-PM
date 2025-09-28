@@ -1,4 +1,4 @@
-# Bootstrap Project Management (BPM)
+# Bootstrap Project Management (Bootstrap-PM)
 
 A minimal, outcomes-first way to run projects when the usual frameworks are too heavy, too slow, or just don’t work in the real world.
 
