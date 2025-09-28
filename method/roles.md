@@ -5,18 +5,19 @@ Bootstrap has codenames too, codenames are cool and make it sound like you're
 highly proficient in some sort of mystic business feng shui.
 Boostrap is influenced by medieval heirarchy, which is where the coolest titles come from.
 
-## The Seneschal (Project Manager)
+## The Alchemist (Project Manager)
 
-The Seneschal is the steward of the project.
-Not the ruler, not the fighter, but the one who keeps the court in order and the work moving.
+The Alchemist turns chaos into order.
+They don’t wield swords or hold the purse — they transform uncertainty, politics, and half-formed ideas into signed-off outcomes.
 
-- Manages the day-to-day running of the project.
-- Ensures the knights (Doers) stay on track and don’t wander into the weeds.
-- Keeps the purse-holder (KDM) satisfied with evidence and outcomes.
-- Filters the promises of heralds (Sales) into practical reality.
-- Holds the records, the plans, and the sign-offs — the ledger of truth.
+- Mixes raw inputs from Envoys, Artisans, and Gatekeepers into a workable plan.
+- Keeps the Custodian satisfied by producing tangible evidence of progress.
+- Directs the Knights so their effort becomes outcomes, not wasted quests.
+- Filters declarations from the King into achievable campaigns.
+- Holds the ledger: records, sign-offs, change logs, and the evidence that protects the project.
 
-Without the Seneschal, the kingdom drifts into chaos.
+The Alchemist is not flashy. Their “magic” is the grind: constant questioning, evidence-gathering, and reshaping lead into gold.
+Without the Alchemist, the whole kingdom is just noise and smoke.
 
 ## The King (Executive Authority)
 
@@ -30,9 +31,9 @@ They can decree its birth, demand its acceleration, or order its death without w
 - Sees the project as part of a larger campaign, not as an isolated battle.
 
 When the King speaks, all other roles adjust.
-The Seneschal interprets the decree, the Purse Holder manages the funds, the Knights adjust their fight.
+The Alchemist interprets the decree, the Purse Holder manages the funds, the Knights adjust their fight.
 The King doesn’t ask, they declare.
-The Seneschal’s job is to translate those declarations into outcomes that can be delivered, signed off, and evidenced.
+The Alchemist’s job is to translate those declarations into outcomes that can be delivered, signed off, and evidenced.
 
 ## The Knight (SME)
 
@@ -41,14 +42,14 @@ They install, configure, code, design, or fix. Steel in hand, they get the real 
 
 - Skilled in their craft — each Knight has their own discipline.
 - Works on the front line, where plans meet reality.
-- Needs direction from the Seneschal (PM) to avoid chasing the wrong fight.
+- Needs direction from the Alchemist (PM) to avoid chasing the wrong fight.
 - Can be swayed by nobles (customers) into “just doing this one thing” outside scope.
 - Tends to underestimate battles (“should be quick”), requiring buffers in the plan.
 - When managed well, they are the **engine of delivery**.
 - When unmanaged, they can burn time in side quests.
 
 Knights win outcomes, but only if pointed at the right enemy.
-The Seneschal sets the field, the Knight fights the fight.
+The Alchemist sets the field, the Knight fights the fight.
 
 ## The Envoy (Sales)
 
@@ -57,12 +58,12 @@ They open the doors, shake the hands, and secure the signatures that start a pro
 
 - First into the court of the customer, presenting visions of what could be.
 - Wins favour, often by painting outcomes in broad, glowing strokes.
-- Hands the campaign over to the Seneschal (PM) and Knights (Doers) once the deal is struck.
+- Hands the campaign over to the Alchemist (PM) and Knights (Doers) once the deal is struck.
 - Sets expectations — sometimes higher than reality can deliver.
 - Without the Envoy, there is no project. With them, there is often work to realign promises with reality.
 
 The Envoy opens the door.
-The Seneschal must decide how to walk through it, and the Knights must fight the battles inside.
+The Alchemist must decide how to walk through it, and the Knights must fight the battles inside.
 
 ## The Castellan (Account Manager)
 
@@ -71,12 +72,12 @@ Once the Envoy has opened the door, the Castellan ensures the relationship is de
 
 - Protects the account like a fortress, ensuring continuity.
 - Keeps customer confidence even when battles inside the walls get messy.
-- Provides stability: if the Seneschal (PM) changes, the Castellan is the constant face.
+- Provides stability: if the Alchemist (PM) changes, the Castellan is the constant face.
 - Guards against hostile incursions — whether from competitors, politics, or faltering delivery.
 - Balances loyalty to the King (executive leadership) with loyalty to the customer.
 
 The Envoy brings opportunity.
-The Seneschal drives the campaign.
+The Alchemist drives the campaign.
 The Castellan holds the walls and keeps the customer inside safe.
 
 ## The Custodian (Customer - KDM/SPoC)
@@ -89,7 +90,7 @@ They don’t swing swords or draft plans — they guard the resources and decide
 - Satisfaction is the true measure of success: if the Custodian signs off, the outcome is complete.
 - Can cancel or redirect the project if it no longer fits their needs.
 
-This is the role the Seneschal (PM) must keep closest.
+This is the role the Alchemist (PM) must keep closest.
 Their sign-off is law.
 
 ## The Artisans (Customer SMEs)
@@ -138,7 +139,7 @@ flowchart TD
 
   %% Delivery side
   subgraph DELIVERY[Delivery]
-    SENE["Seneschal (Project Manager)"]:::mgr
+    SENE["Alchemist (Project Manager)"]:::mgr
     CAST["Castellan (Account Manager)"]:::acct
     ENVOY["Envoy (Sales)"]:::acct
     KNIGHT["Knight(s) (Doers/SMEs)"]:::doer

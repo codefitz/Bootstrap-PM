@@ -18,7 +18,7 @@ Agenda:
 - If the Knights (your architects, your SMEs) say “cannot be done” — you stop here. Flag immediately with the King and Custodian (customer stakeholders) before wasting another minute.
 
 ## 4. Draft the Plan
-- If it’s feasible: the Project Manager (the Seneschal) drafts the delivery plan, the customer plan, and proposed KPIs.
+- If it’s feasible: the Project Manager (the Alchemist) drafts the delivery plan, the customer plan, and proposed KPIs.
   - Delivery plan = living, granular, for the team.
   - Customer plan = high-level milestones only.
   - KPIs = how success will be measured.
