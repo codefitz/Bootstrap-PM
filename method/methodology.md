@@ -1,17 +1,17 @@
 # Bootstrapping
 
-Bootstrap Project Management isn’t about phases or rigid playbooks.
-It’s repeatable, lightweight, and focused on outcomes.
+Bootstrap-PM isn't about phases or rigid playbooks.  
+It's repeatable, lightweight, and focused on outcomes.
 
 ## Step 1 — [Startup](./1_startup.md) & [Mid-Flight Takeover](./1a_mid-project_takeover.md)
 
-- Establish what’s been bought and sold (from the Sales [Envoy](./roles.md#the-envoy-sales)).
+- Establish what's been bought and sold (from the Sales [Envoy](./roles.md#the-envoy-sales)).
 - Assemble the team: PM ([Alchemist](./roles.md#the-alchemist-project-manager)), Account Manager ([Castellan](./roles.md#the-castellan-account-manager)), Consultants/Delivery Team ([Knights](./roles.md#the-knight-sme)).
-- If mid-project: take inventory of what’s been signed off by the customer [Custodian](./roles.md#the-custodian-customer---kdmspoc), what’s pending, and what’s disputed.
+- If mid-project: take inventory of what's been signed off by the customer [Custodian](./roles.md#the-custodian-customer---kdmspoc), what's pending, and what's disputed.
 
 ## Step 2 — [Defining Outcomes](./2_outcomes.md)
 
-- Lock down what makes the Customer Exec (the [King](./roles.md#the-king-executive-authority)) say **“yes, we’re satisfied.”**
+- Lock down what makes the Customer Exec (the [King](./roles.md#the-king-executive-authority)) say **“yes, we're satisfied.”**
 - Translate into KPIs with measurable evidence.
 - [Alchemist](./roles.md#the-alchemist-project-manager) documents, [Knights](./roles.md#the-knight-sme) clarify feasibility, [Custodian](./roles.md#the-custodian-customer---kdmspoc) approves.
 
@@ -74,8 +74,8 @@ If sign-off is refused:
 | - | - |
 | 1 | Outcomes are everything. Outcomes are pinned by deliverables. All tasks tie to a deliverable.
 | 2 | No task is undertaken without a measure of success and completion.
-| 3 | The project doesn’t start until every task has been estimated.
-| 4 | Evidence or it didn’t happen.
+| 3 | The project doesn't start until every task has been estimated.
+| 4 | Evidence or it didn't happen.
 | 5 | No empty folders. Empty folders = failure to commit or failure to deliver.
 | 6 | No change goes unlogged.
 | 7 | Sign-off is closure.

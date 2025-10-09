@@ -12,7 +12,13 @@
   - **Option 2:** **Escalate to KDM** — warn it’s taking longer; renegotiate scope/budget/dates.
   - **Blame wisely:** if it’s a customer dependency, say so (with evidence). If it’s on delivery, **own it** and adjust.
 
-**Smell test:** if **% time elapsed >> % work complete**, raise a flag. Don’t wait for Friday.
+**Smell test:**
+
+```
+if % time elapsed > % work complete:
+```
+
+...raise a flag. Don’t wait for Friday.
 
 ## Tooling
 

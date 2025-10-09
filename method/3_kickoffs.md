@@ -7,8 +7,8 @@ Kick-offs are where you set the tone. Each group gets their own. Don’t mix the
 - Make sure everyone agrees on deliverables and timeline.
 - If not, raise it now. Better here than being blindsided at customer kickoff.
 - The PM must walk away with a plan they’re happy with.
-- Could be an adapted plan from earlier projects.
-- Could be new — in which case, expect another planning session before or right after kickoff, but *always* before the customer session.
+  - Could be an adapted plan from earlier projects.
+  - Could be new — in which case, expect another planning session before or right after kickoff, but *always* before the customer session.
 - The plan doesn’t need to be perfect. It’s a living doc.
 - Ambiguities should be documented.
 - Take these to the customer with a timebox proposal if needed.
@@ -26,20 +26,20 @@ Kick-offs are where you set the tone. Each group gets their own. Don’t mix the
 ### Dealing with Misalignment
 
 - **Bucket approach**
-- If they just want “hands on deck,” treat it as a bucket of days.
-- Outcome changes to: *work for X days* with no guarantee of full product.
+  - If they just want “hands on deck,” treat it as a bucket of days.
+  - Outcome changes to: *work for X days* with no guarantee of full product.
 
 - **Subbing approach**
-- If one component is disputed, work with SMEs to refactor it into another deliverable.
-- Document it, sub it into the plan, get agreement.
+  - If one component is disputed, work with SMEs to refactor it into another deliverable.
+  - Document it, sub it into the plan, get agreement.
 
 - **Kick it back to Sales**
-- If irrecoverable, sales must step in.
-- Could mean refunds, freebies, or convincing the customer they bought the right thing.
+  - If irrecoverable, sales must step in.
+  - Could mean refunds, freebies, or convincing the customer they bought the right thing.
 
 - **Bucket and spade approach**
-- If project shape is wrong, convert it into another project type entirely.
-- May require another internal kickoff and planning round.
+  - If project shape is wrong, convert it into another project type entirely.
+  - May require another internal kickoff and planning round.
 
 ## Partner / 3rd Party Kick-off (Optional)
 

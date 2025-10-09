@@ -72,6 +72,6 @@ This is where SMEs or well-meaning consultants slip in changes before the PM eve
 - [ ] Reverse option offered if needed.
 - [ ] Evidence stored (email, meeting notes, repo log).
 
-**Comments**
+**Tone**
 
 Bootstrap PM isn’t anti-change — it’s anti-surprise. Every change is leverage, evidence, and protection. If it’s not documented, then it's a hidden landmine waiting for the wrong foot to fall at the wrong time.

@@ -13,7 +13,15 @@ One is for you and your team. The other is for the people paying.
 - Format doesn’t matter — kanban board, gantt chart, grid, whatever.
 - Granularity rule: every task must directly affect progress. If it doesn’t move the needle, bin it.
 - Document owners for tasks. If no one owns it, it won’t get done.
+  - The PM should identify one core owner. Multiple onwers risks triggering a 'bystander effect' where everyone assumes (or perhaps wishes) that someone else will manage it. A single owner ensures accountability.
 - Keep it alive. Update as things shift. Don’t let it rot.
+- Make sure to factor in public holidays and resource holidays.
+
+The delivery plan will need to take into account the resource budget, e.g. the customer may have bought 10 days consultancy, but an additional 5 days effort and deliverables are needed from the customer. Your plan will need to take account of the 15 days of effort, but you will need to track 10 days of budget. Unfortunately most PM tools do not account for this, so you may need a seperate budget tracker, unless you have a highly integrated solution that includes timesheets.
+
+Other options may be to assign the customer 0 costed effort, but X timescale if the software allows for that.
+
+Most software is quite limited in that it doesn't allow for distinctions for public holidays across territories - if you are dealing with a global project, you may be better off knocking something up in Excel using ChatGPT to get you the automation you need.
 
 ## Customer Plan (Light)
 
@@ -25,7 +33,7 @@ One is for you and your team. The other is for the people paying.
 
 ## The Handshake
 
-Delivery Plan = detail.
+Delivery Plan = detail.  
 Customer Plan = story.
 
 Both must line up. If they drift apart, you’re in trouble.
@@ -58,6 +66,10 @@ Forecasting is fundamental to bootstrapping. No fluff. You need a number you can
 You present the **total** to the customer. Start high so there’s room to come down (they will try to push it down).
 
 > **Iron Bootstrap Rule:** the project **does not proceed** unless **every task is accounted for and estimated**.
+
+When writing estimates, give yourself room to breath. Most customers (particularly budget-conscious customers) are going to try to haggle you down so leave something to haggle. If you have a particularly weak sales team they might even go in with the bare minimum effort or cost, leaving you with no breathing room for anything to go wrong. Bootstrap-PM is about acknowledging that most projects will face unforeseen circumstances.
+
+If Sales have stiffed you, don't be afraid to communicate this to the customer - better to say "I told you so" than "it's not my fault".
 
 ### How to Write the Estimate (keep it blunt)
 

@@ -8,7 +8,7 @@ Boostrap is influenced by medieval heirarchy, which is where the coolest titles 
 ## The Alchemist (Project Manager)
 
 The Alchemist turns chaos into order.
-They don’t wield swords or hold the purse — they transform uncertainty, politics, and half-formed ideas into signed-off outcomes.
+They don't wield swords or hold the purse — they transform uncertainty, politics, and half-formed ideas into signed-off outcomes.
 
 - Mixes raw inputs from Envoys, Artisans, and Gatekeepers into a workable plan.
 - Keeps the Custodian satisfied by producing tangible evidence of progress.
@@ -16,7 +16,7 @@ They don’t wield swords or hold the purse — they transform uncertainty, poli
 - Filters declarations from the King into achievable campaigns.
 - Holds the ledger: records, sign-offs, change logs, and the evidence that protects the project.
 
-The Alchemist is not flashy. Their “magic” is the grind: constant questioning, evidence-gathering, and reshaping lead into gold.
+The Alchemist is not flashy. Their "magic" is the grind: constant questioning, evidence-gathering, and reshaping lead into gold.
 Without the Alchemist, the whole kingdom is just noise and smoke.
 
 ## The King (Executive Authority)
@@ -32,8 +32,8 @@ They can decree its birth, demand its acceleration, or order its death without w
 
 When the King speaks, all other roles adjust.
 The Alchemist interprets the decree, the Purse Holder manages the funds, the Knights adjust their fight.
-The King doesn’t ask, they declare.
-The Alchemist’s job is to translate those declarations into outcomes that can be delivered, signed off, and evidenced.
+The King doesn't ask, they declare.
+The Alchemist's job is to translate those declarations into outcomes that can be delivered, signed off, and evidenced.
 
 ## The Knight (SME)
 
@@ -43,8 +43,8 @@ They install, configure, code, design, or fix. Steel in hand, they get the real 
 - Skilled in their craft — each Knight has their own discipline.
 - Works on the front line, where plans meet reality.
 - Needs direction from the Alchemist (PM) to avoid chasing the wrong fight.
-- Can be swayed by nobles (customers) into “just doing this one thing” outside scope.
-- Tends to underestimate battles (“should be quick”), requiring buffers in the plan.
+- Can be swayed by nobles (customers) into "just doing this one thing" outside scope.
+- Tends to underestimate battles ("should be quick"), requiring buffers in the plan.
 - When managed well, they are the **engine of delivery**.
 - When unmanaged, they can burn time in side quests.
 
@@ -82,8 +82,8 @@ The Castellan holds the walls and keeps the customer inside safe.
 
 ## The Custodian (Customer - KDM/SPoC)
 
-The Custodian is the keeper of the customer’s investment. This is the Key Decision Maker and/or Single Point of Contact.
-They don’t swing swords or draft plans — they guard the resources and decide if the work is worth it.
+The Custodian is the keeper of the customer's investment. This is the Key Decision Maker and/or Single Point of Contact.
+They don't swing swords or draft plans — they guard the resources and decide if the work is worth it.
 
 - Controls the budget and has authority to approve or reject milestones.
 - Sets priorities in line with business value.
@@ -95,7 +95,7 @@ Their sign-off is law.
 
 ## The Artisans (Customer SMEs)
 
-The Artisans are the skilled specialists of the customer’s realm.
+The Artisans are the skilled specialists of the customer's realm.
 They know the systems, the processes, and the hidden quirks that make things work — or break.
 
 - Provide the knowledge and access the project depends on.

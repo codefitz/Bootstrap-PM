@@ -8,7 +8,7 @@ When the customer signs, the milestone is done.
 
 - A sign-off is a signal of **customer satisfaction**.  
   - Once it’s signed, no more work is required to meet satisfaction.  
-- A deliverable does **not** have to be “complete” to be signed off. There are many reasons it may stop short:  
+- A deliverable does **not** have to be "complete" to be signed off. There are many reasons it may stop short:  
   - Customer descoped the work.  
   - Customer ran out of money.  
   - Activity was timeboxed — the days are done, even if the intended product isn’t finished.  
@@ -19,14 +19,14 @@ If there’s a sign-off, that’s the definition of done.
 
 - **Customer satisfaction is the target.** Sign-off is proof they’re satisfied.
 - Without evidence of sign-off, everything is open to dispute.
-- Sign-off protects the delivery team from scope creep, memory loss, and “we never agreed to that.”
+- Sign-off protects the delivery team from scope creep, memory loss, and *"we never agreed to that."*
 - It locks in the outcome.
 
 ## Acceptable Forms of Sign-off
 
 - Signed contract / SoW.
 - Email from KDM confirming acceptance.
-- Meeting notes circulated and acknowledged (best if customer replies “agree”).
+- Meeting notes circulated and acknowledged (best if customer replies *"agree"*).
 - Recorded call / video clip (if agreed as valid).
 - Even a simple ticket comment — as long as it’s explicit.
 
@@ -37,7 +37,7 @@ If you can point to it later, it counts. If not, it doesn’t.
 - Ask for it explicitly. Don’t assume silence = approval.
 - Present outcomes/KPIs and the evidence that they’re met.
 - Keep the request simple:
-  > *“We’ve delivered \<milestone>. Please confirm acceptance.”*
+  > *"We've delivered \<milestone>. Please confirm acceptance."*
 
 ## Where to Store Sign-offs
 
@@ -59,19 +59,19 @@ If you can point to it later, it counts. If not, it doesn’t.
 - Don’t proceed to the next phase until it’s locked.
 - Escalate politely but persistently.
 - Use the “assumption reflex” trick:
-> *“If I don’t hear back by EOD, I’ll assume Milestone X is signed off and will progress accordingly.”*
+> *"If I don't hear back by EOD, I'll assume Milestone X is signed off and will progress accordingly."*
 
-People hate being misquoted — they’ll respond faster.
+People hate being misquoted — they'll respond faster.
 
 ## If You Can’t Get a Sign-off
 
 Refusal to sign-off = danger. Risks:
 - Not getting paid.
 - Legal disputes.
-- Project being considered “incomplete” even when work was delivered.
+- Project being considered "incomplete" even when work was delivered.
 
-PM must first understand *why* there’s no sign-off:
-- Customer doesn’t feel the work is complete.
+PM must first understand *why* there's no sign-off:
+- Customer doesn't feel the work is complete.
 - Customer is waiting on internal approval (e.g. CFO sign-off).
 - Project was cancelled mid-way.
 
@@ -90,15 +90,15 @@ PM must first understand *why* there’s no sign-off:
 - Resolve through change management (new scope, new money).
 - If they refuse change - escalate to sales/account manager.
   - Account may waive costs as goodwill.
-- If it’s a toxic relationship → execs decide to cut losses - Go to Last Resort.
+- If it's a toxic relationship → execs decide to cut losses - Go to Last Resort.
 
 **If delivery not complete**
 - Instruct SMEs to do gap analysis and finish.
 - If undocumented changes complicated delivery - raise them now. May negotiate more money, but no guarantees, the customer is not obliged to accept unnapproved changes to scope (even if they asked for them).
 
 **If blocked by functionality (impossible ask)**
-- Should have been caught at kickoff, but if you inherited a failing project it’s on your lap.
-- Document SMEs’ case and explain to customer.
+- Should have been caught at kickoff, but if you inherited a failing project it's on your lap.
+- Document SMEs' case and explain to customer.
 - If customer insists anyway, follow same resolution as above (rescope, negotiate, or escalate).
 - Push SMEs to think laterally: is there a tool, workaround, or purchase that could make it viable?
 
@@ -125,11 +125,11 @@ The **Evidence folder** becomes critical here. Expect it to be used in legal rev
 - [ ] Refusals investigated and resolved via steps above.
 - [ ] Last resort triggered only when all else fails.
 
-## Comments
+## Tone
 
-Bootstrap PM doesn’t chase velocity.
-It doesn’t chase story points.
+Bootstrap PM doesn't chase velocity.  
+It doesn't chase story points.  
 It chases **signatures**.
 
-Signed = satisfied.
+Signed = satisfied.  
 Satisfied = success.
