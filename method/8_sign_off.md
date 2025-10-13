@@ -25,7 +25,7 @@ If there’s a sign-off, that’s the definition of done.
 ## Acceptable Forms of Sign-off
 
 - Signed contract / SoW.
-- Email from KDM confirming acceptance.
+- Email from the [Custodian (Customer KDM)](./roles.md#the-custodian-customer---kdmspoc) confirming acceptance.
 - Meeting notes circulated and acknowledged (best if customer replies *"agree"*).
 - Recorded call / video clip (if agreed as valid).
 - Even a simple ticket comment — as long as it’s explicit.
@@ -41,7 +41,7 @@ If you can point to it later, it counts. If not, it doesn’t.
 
 ## Where to Store Sign-offs
 
-- All sign-offs go in the **Evidence folder** (or repo if versioned).
+- All sign-offs go in the **Evidence folder** (or repo if versioned). Review the structure in [Stakeholder Kick-offs](./3_kickoffs.md) and [Stakes](./4_stakes.md) to keep alignment on ownership.
 - Structure it by milestone:
 
 ```
@@ -70,9 +70,9 @@ Refusal to sign-off = danger. Risks:
 - Legal disputes.
 - Project being considered "incomplete" even when work was delivered.
 
-PM must first understand *why* there's no sign-off:
-- Customer doesn't feel the work is complete.
-- Customer is waiting on internal approval (e.g. CFO sign-off).
+The [Alchemist (PM)](./roles.md#the-alchemist-project-manager) must first understand *why* there's no sign-off:
+- The Custodian doesn't feel the work is complete.
+- The Custodian is waiting on internal approval (e.g. CFO sign-off).
 - Project was cancelled mid-way.
 
 ## Resolution Process
@@ -86,19 +86,19 @@ PM must first understand *why* there's no sign-off:
 
 **If delivered to spec but customer still unsatisfied**
 - Likely a disconnect between what was sold vs. what they thought they bought.
-- Hold a rescoping workshop with SMEs.
+- Hold a rescoping workshop with [Knights (SMEs)](./roles.md#the-knight-sme).
 - Resolve through change management (new scope, new money).
-- If they refuse change - escalate to sales/account manager.
+- If they refuse change - escalate to the [Envoy (Sales)](./roles.md#the-envoy-sales) / [Castellan (Account Manager)](./roles.md#the-castellan-account-manager).
   - Account may waive costs as goodwill.
 - If it's a toxic relationship → execs decide to cut losses - Go to Last Resort.
 
 **If delivery not complete**
-- Instruct SMEs to do gap analysis and finish.
+- Instruct Knights to do gap analysis and finish.
 - If undocumented changes complicated delivery - raise them now. May negotiate more money, but no guarantees, the customer is not obliged to accept unnapproved changes to scope (even if they asked for them).
 
 **If blocked by functionality (impossible ask)**
 - Should have been caught at kickoff, but if you inherited a failing project it's on your lap.
-- Document SMEs' case and explain to customer.
+- Document Knights' case and explain to customer.
 - If customer insists anyway, follow same resolution as above (rescope, negotiate, or escalate).
 - Push SMEs to think laterally: is there a tool, workaround, or purchase that could make it viable?
 

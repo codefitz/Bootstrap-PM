@@ -6,10 +6,10 @@
 
 **Probe immediately (5 Whys):**
 - Is there a **gate** (e.g. waiting on firewall, access, data, approvals)?
-  - **Action:** add a visible milestone/blocker in the plan, name the owner, **escalate to KDM**.
+  - **Action:** add a visible milestone/blocker in the plan, name the owner, **escalate to the [Custodian (Customer KDM)](./roles.md#the-custodian-customer---kdmspoc)**.
 - Is it **underestimated** (we just sized it badly)?
   - **Option 1:** **Borrow** time from other tasks (ideally ones already completed under budget).
-  - **Option 2:** **Escalate to KDM** — warn it’s taking longer; renegotiate scope/budget/dates.
+  - **Option 2:** **Escalate to the Custodian** — warn it’s taking longer; renegotiate scope/budget/dates.
   - **Blame wisely:** if it’s a customer dependency, say so (with evidence). If it’s on delivery, **own it** and adjust.
 
 **Smell test:**
@@ -36,7 +36,7 @@ Pick the tool that gives clarity with least drag.
   - **Clued-up, demanding customer?** Match their pace. Daily stand-ups are fine.
   - **Laid-back customer?** **Red flag.** Micromanage. When dates slip, blame lands on delivery. Stay ahead of it.
 
-**Your job:** Nag both sides. SMEs may moan, but they’re not paying.  
+**Your job:** Nag both sides. [Knights (SMEs)](./roles.md#the-knight-sme) may moan, but they’re not paying.  
 The goal is **customer satisfaction** — visible progress, clean comms, no surprises.
 
 ## Lawyer/Detective Mode
@@ -52,5 +52,5 @@ The goal is **customer satisfaction** — visible progress, clean comms, no surp
 - [ ] Daily/bi-daily progress vs. time check
 - [ ] Gates logged as blockers, owners named
 - [ ] Under-/over-runs balanced or escalated
-- [ ] KDM informed early on impact
+- [ ] Custodian informed early on impact
 - [ ] Evidence captured (notes, emails, screenshots)

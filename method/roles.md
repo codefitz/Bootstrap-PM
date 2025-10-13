@@ -10,10 +10,10 @@ Boostrap is influenced by medieval heirarchy, which is where the coolest titles 
 The Alchemist turns chaos into order.
 They don't wield swords or hold the purse — they transform uncertainty, politics, and half-formed ideas into signed-off outcomes.
 
-- Mixes raw inputs from Envoys, Artisans, and Gatekeepers into a workable plan.
-- Keeps the Custodian satisfied by producing tangible evidence of progress.
-- Directs the Knights so their effort becomes outcomes, not wasted quests.
-- Filters declarations from the King into achievable campaigns.
+- Mixes raw inputs from [Envoy (Sales)](./roles.md#the-envoy-sales), [Artisans (Customer SMEs)](./roles.md#the-artisans-customer-smes), and [Gatekeepers (3rd Parties & Blockers)](./roles.md#the-gatekeepers-3rd-parties-artisans-potential-blockers) into a workable plan.
+- Keeps the [Custodian (Customer KDM)](./roles.md#the-custodian-customer---kdmspoc) satisfied by producing tangible evidence of progress.
+- Directs the [Knights (SMEs)](./roles.md#the-knight-sme) so their effort becomes outcomes, not wasted quests.
+- Filters declarations from the [King (Executive Authority)](./roles.md#the-king-executive-authority) into achievable campaigns.
 - Holds the ledger: records, sign-offs, change logs, and the evidence that protects the project.
 
 The Alchemist is not flashy. Their "magic" is the grind: constant questioning, evidence-gathering, and reshaping lead into gold.
@@ -31,7 +31,7 @@ They can decree its birth, demand its acceleration, or order its death without w
 - Sees the project as part of a larger campaign, not as an isolated battle.
 
 When the King speaks, all other roles adjust.
-The Alchemist interprets the decree, the Purse Holder manages the funds, the Knights adjust their fight.
+The [Alchemist (PM)](./roles.md#the-alchemist-project-manager) interprets the decree, the Purse Holder manages the funds, the [Knights (SMEs)](./roles.md#the-knight-sme) adjust their fight.
 The King doesn't ask, they declare.
 The Alchemist's job is to translate those declarations into outcomes that can be delivered, signed off, and evidenced.
 
@@ -49,7 +49,7 @@ They install, configure, code, design, or fix. Steel in hand, they get the real 
 - When unmanaged, they can burn time in side quests.
 
 Knights win outcomes, but only if pointed at the right enemy.
-The Alchemist sets the field, the Knight fights the fight.
+The [Alchemist (PM)](./roles.md#the-alchemist-project-manager) sets the field, the [Knight (SME)](./roles.md#the-knight-sme) fights the fight.
 
 ## The Envoy (Sales)
 
@@ -58,12 +58,12 @@ They open the doors, shake the hands, and secure the signatures that start a pro
 
 - First into the court of the customer, presenting visions of what could be.
 - Wins favour, often by painting outcomes in broad, glowing strokes.
-- Hands the campaign over to the Alchemist (PM) and Knights (Doers) once the deal is struck.
+- Hands the campaign over to the [Alchemist (PM)](./roles.md#the-alchemist-project-manager) and [Knights (SMEs)](./roles.md#the-knight-sme) once the deal is struck.
 - Sets expectations — sometimes higher than reality can deliver.
 - Without the Envoy, there is no project. With them, there is often work to realign promises with reality.
 
 The Envoy opens the door.
-The Alchemist must decide how to walk through it, and the Knights must fight the battles inside.
+The [Alchemist (PM)](./roles.md#the-alchemist-project-manager) must decide how to walk through it, and the [Knights (SMEs)](./roles.md#the-knight-sme) must fight the battles inside.
 
 ## The Castellan (Account Manager)
 
@@ -77,7 +77,7 @@ Once the Envoy has opened the door, the Castellan ensures the relationship is de
 - Balances loyalty to the King (executive leadership) with loyalty to the customer.
 
 The Envoy brings opportunity.
-The Alchemist drives the campaign.
+The [Alchemist (PM)](./roles.md#the-alchemist-project-manager) drives the campaign.
 The Castellan holds the walls and keeps the customer inside safe.
 
 ## The Custodian (Customer - KDM/SPoC)
@@ -90,7 +90,7 @@ They don't swing swords or draft plans — they guard the resources and decide i
 - Satisfaction is the true measure of success: if the Custodian signs off, the outcome is complete.
 - Can cancel or redirect the project if it no longer fits their needs.
 
-This is the role the Alchemist (PM) must keep closest.
+This is the role the [Alchemist (PM)](./roles.md#the-alchemist-project-manager) must keep closest.
 Their sign-off is law.
 
 ## The Artisans (Customer SMEs)
@@ -117,11 +117,11 @@ They hold the keys to systems, processes, approvals, or resources — and nothin
 - Often require formal tickets, approvals, or work orders before acting.
 - May slow progress, either by process design or by choice.
 - Sometimes protective, sometimes political — always influential.
-- Must be managed through the Custodian (Customer KDM/Provost), never assumed to answer directly to the project.
+- Must be managed through the [Custodian (Customer KDM)](./roles.md#the-custodian-customer---kdmspoc), never assumed to answer directly to the project.
 
 Every castle has a gate.
 The Gatekeepers decide who enters and who waits.
-Work with them early, document every delay, and escalate when the gate stays shut.
+Work with them early, document every delay, and escalate when the gate stays shut through the [Custodian (Customer KDM)](./roles.md#the-custodian-customer---kdmspoc).
 
 ```mermaid
 flowchart TD
